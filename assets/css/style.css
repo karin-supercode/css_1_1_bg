@@ -1,9 +1,11 @@
 section{
-    background-color: linen;
+    background-image: url(https://www.w3schools.com/css/gradient_bg_vertical.png);
+    background-repeat: repeat-y;
 }
-section h1{
-    background-color: lightblue;
-}
+
 article{
-    background-image: url(https://images.unsplash.com/photo-1638376867422-0bec495fc781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0MDY3MjI2NA&ixlib=rb-1.2.1&q=80&w=1080);
+    background-image: url(https://i.picsum.photos/id/83/200/300.jpg?hmac=avqtE9ZSAkPbFtYCXzxg4TeAA-fMWqX6jUQeWI_HjLc);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position: right;
 }
